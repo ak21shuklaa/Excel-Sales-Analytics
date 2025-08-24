@@ -30,6 +30,16 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
+  
+## Expense Tracker:
+**1.** Created [Personal_expense_tracker](https://github.com/ak21shuklaa/Excel-Sales-Analytics/blob/main/Personal_expense_tracker.pdf)
+
+- **Purpose of Personal expense tracker:** is to help individuals manage their money better by keeping a clear record of income and expenses.
+
+- **Importance of analyzing expense tracker:** It turns raw financial data into meaningful insights that help you control spending, save more, and plan for the future.
+
+- **Role of reports:** Provide a clear, structured view of a person’s financial activities. Transform expense data into actionable insights that improve financial control, planning, and stability.
+
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
