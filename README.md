@@ -21,6 +21,7 @@
 - **Project objective:** 
 
    **1.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ak21shuklaa/Excel-Sales-Analytics/blob/main/P%26L%20Report.pdf)_
+  
    **2.** Create Gross Margin% reportsby Quarter (https://github.com/ak21shuklaa/Excel-Sales-Analytics/blob/main/Gross%20margin%20by%20quarter.pdf) 
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
